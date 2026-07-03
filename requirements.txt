@@ -20,7 +20,7 @@ idna==3.2
 itsdangerous==2.0.1
 Jinja2==3.0.1
 joblib==1.0.1
-keras==2.6.0
+keras==3.13.2
 Keras-Preprocessing==1.1.2
 Markdown==3.3.4
 MarkupSafe==2.0.1
